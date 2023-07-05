@@ -1,5 +1,8 @@
 ### Hi there, I am Jose, a passionate developer from Colombia
 
+![Top Langs](https://github-readme-stats-sooty-phi-52.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sooty-phi-52.vercel.app/api?username=jvera701&show_icons=true&theme=dracula)
+
 <!--
 **jvera701/jvera701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
