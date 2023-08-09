@@ -1,10 +1,9 @@
 # Hi there, I am Jose, a passionate developer from Colombia
 
----
 ## About me:
 - :telescope: I’m a passionate full stack Software Engineer.
 
-- :zap: Currently I am learning Vue in my free time. I also try to solve some LeetCode problems just to warm up my brain.
+- :zap: Currently I am learning Vue in my free time. I also try to solve some LeetCode problems to practice algorithms and prepare myself for interviews.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
 
@@ -28,6 +27,7 @@
 
 ---
 ## My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvera701&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-g1jx.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats-g1jx.vercel.app/api?username=jvera701&show_icons=true&theme=dracula)
 
