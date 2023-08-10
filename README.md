@@ -1,5 +1,4 @@
 # Hi there, I am Jose, a developer from Colombia
-
 ## About me:
 - :telescope: I’m a passionate full stack and React Native developer.
 
@@ -9,7 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
 [![Email badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:javera701@gmail.com)
 
----
 ## Languages and tools
 
 <div>
@@ -35,7 +33,6 @@ height="40"/>&nbsp;
 height="40" />&nbsp;
 </div>
 
----
 ## My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
