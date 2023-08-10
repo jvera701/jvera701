@@ -1,11 +1,13 @@
-# Hi there, I am Jose, a passionate developer from Colombia
+# Hi there, I am Jose, a developer from Colombia
 
 ## About me:
 - :telescope: I’m a passionate full stack and React Native developer.
 
 - :zap: Currently I am learning Vue in my free time. I also try to solve some LeetCode problems to practice algorithms and prepare myself for interviews.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
+- :mailbox:How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
+[![Email badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:javera701@gmail.com)
 
 ---
 ## Languages and tools
