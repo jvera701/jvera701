@@ -35,7 +35,10 @@ height="40" />&nbsp;
 
 ---
 ## My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvera701&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-g1jx.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats-g1jx.vercel.app/api?username=jvera701&show_icons=true&theme=dracula)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-g1jx.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-g1jx.vercel.app/api?username=jvera701&show_icons=true&theme=dracula" />
+</a>
