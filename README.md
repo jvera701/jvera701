@@ -6,7 +6,7 @@
 
 - :mailbox:How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
-[![Email badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:javera701@gmail.com)
+[javera701@gmail.com](mailto:javera701@gmail.com?subject=[GitHub])
 
 ## Languages, frameworks and libraries
 
