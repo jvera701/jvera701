@@ -42,7 +42,7 @@ height="40" />&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvera701&theme=dark&background=000000)](https://git.io/streak-stats)
+![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvera701&show_icons=true&theme=dark)
 
 ## My Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jvera701)
