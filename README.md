@@ -2,7 +2,7 @@
 ## About me:
 - :telescope: I’m a passionate full stack and React Native developer.
 
-- :zap: Currently I am learning Vue in my free time. I also like solving LeetCode problems to practice algorithms and prepare myself for interviews.
+- :zap: Currently I am learning Vue and nest JS in my free time. I also like solving LeetCode problems to practice algorithms and prepare myself for interviews.
 
 - :mailbox:How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
@@ -43,3 +43,6 @@ height="40" />&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvera701&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvera701&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## My Leetcode stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/jvera701)
