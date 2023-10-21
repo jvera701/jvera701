@@ -4,10 +4,6 @@
 
 - :zap: Currently I am learning Vue and nest JS in my free time. I also like solving LeetCode problems to practice algorithms and prepare myself for interviews.
 
-- :mailbox:How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-jvera701-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alejandro-vera/)
-[javera701@gmail.com](mailto:javera701@gmail.com?subject=[GitHub])
-
 ## Languages, frameworks and libraries
 
 <div>
